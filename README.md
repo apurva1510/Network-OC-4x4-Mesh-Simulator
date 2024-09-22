@@ -19,3 +19,5 @@ This project involves the development of a Network-on-Chip (NoC) simulator using
 - Goals
   - Gain hands-on experience in designing and analyzing on-chip communication systems.
   - Understand the behavior and performance characteristics of NoC architectures through simulation and analysis.
+
+PS: I have uploaded the .cpp and header files for this project. To view this project in detail, please download the .zip file.  
